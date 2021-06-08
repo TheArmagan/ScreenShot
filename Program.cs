@@ -67,6 +67,8 @@ namespace ScreenShot
                 Console.WriteLine("Screenshot command example: screenshot 0 png \"myScrenshot.png\"");
             }
 
+            Application.Exit();
+
             Bitmap GetSreenshot(Screen screen)
             {
                 Bitmap bm = new Bitmap(screen.Bounds.Width, screen.Bounds.Height);
