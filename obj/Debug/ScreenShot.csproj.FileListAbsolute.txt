@@ -1,0 +1,6 @@
+C:\Users\BDT\source\repos\ScreenShot\bin\Debug\ScreenShot.exe.config
+C:\Users\BDT\source\repos\ScreenShot\bin\Debug\ScreenShot.exe
+C:\Users\BDT\source\repos\ScreenShot\bin\Debug\ScreenShot.pdb
+C:\Users\BDT\source\repos\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+C:\Users\BDT\source\repos\ScreenShot\obj\Debug\ScreenShot.exe
+C:\Users\BDT\source\repos\ScreenShot\obj\Debug\ScreenShot.pdb
